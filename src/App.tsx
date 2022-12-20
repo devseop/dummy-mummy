@@ -1,5 +1,7 @@
+import ScreenContainer from 'page/ScreenContainer';
+
 const App = () => {
-  return <p>hello, world</p>;
+  return <ScreenContainer />;
 };
 
 export default App;
